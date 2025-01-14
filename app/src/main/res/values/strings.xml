@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RecipeAppKotlin</string>
+
+    <!-- Array for Spinner -->
+    <string-array name="languages_array">
+        <item>English</item>
+        <item>Dutch</item>
+        <item>French</item>
+    </string-array>
+</resources>
