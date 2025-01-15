@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ReceptenApplicatieKotlin</string>
+
+    <!-- Array for Spinner -->
+    <string-array name="languages_array">
+        <item>Engels</item>
+        <item>Nederlands</item>
+        <item>Frans</item>
+    </string-array>
+
+    <string name="home">HoofdMenu</string>
+    <string name="favorite">Favorieten</string>
+    <string name="settings">Instellingen</string>
+</resources>

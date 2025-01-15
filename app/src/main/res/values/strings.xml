@@ -7,4 +7,8 @@
         <item>Dutch</item>
         <item>French</item>
     </string-array>
+
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="settings">Settings</string>
 </resources>
