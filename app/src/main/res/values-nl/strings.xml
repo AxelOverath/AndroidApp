@@ -12,4 +12,5 @@
     <string name="favorite">Favorieten</string>
     <string name="settings">Instellingen</string>
     <string name="select">Selecteer Taal</string>
+    <string name="titlerecipe">Favoriete Recepten</string>
 </resources>
