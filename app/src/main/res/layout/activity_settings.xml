@@ -17,7 +17,7 @@
             android:id="@+id/selectLanguageLabel"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Select Language"
+            android:text="@string/select"
             android:textSize="18sp"
             android:textColor="#333333"
             android:layout_marginTop="16dp" />

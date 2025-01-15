@@ -6,10 +6,10 @@
     <string-array name="languages_array">
         <item>Engels</item>
         <item>Nederlands</item>
-        <item>Frans</item>
     </string-array>
 
     <string name="home">HoofdMenu</string>
     <string name="favorite">Favorieten</string>
     <string name="settings">Instellingen</string>
+    <string name="select">Selecteer Taal</string>
 </resources>

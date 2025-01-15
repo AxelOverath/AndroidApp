@@ -5,10 +5,10 @@
     <string-array name="languages_array">
         <item>English</item>
         <item>Dutch</item>
-        <item>French</item>
     </string-array>
 
     <string name="home">Home</string>
     <string name="favorite">Favorite</string>
     <string name="settings">Settings</string>
+    <string name="select">Select Language</string>
 </resources>
