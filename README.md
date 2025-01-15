@@ -61,7 +61,7 @@ Recipe Finder is an Android application built with Kotlin, designed to make find
    - Tap "Remove" on a recipe to delete it from your favourites.
 
 5. **Settings Menu:**
-   - Access the settings menu to explore language customization options (currently not functional).
+   - Access the settings menu to explore language customization options.
 
 ## Future Improvements
 
