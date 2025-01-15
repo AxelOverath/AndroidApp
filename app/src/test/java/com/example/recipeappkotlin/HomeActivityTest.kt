@@ -55,7 +55,7 @@ class HomeActivityTest {
         """.trimIndent()
 
         val expectedRecipes = listOf(
-            Recipe("Pasta", "Noodles|Sauce|Cheese", "4","Boil noodles, mix sauce, add cheese.")
+            Recipe(0,"Pasta", "Noodles|Sauce|Cheese", "4","Boil noodles, mix sauce, add cheese.")
         )
 
         // Mock the parseRecipesFromJson method behavior
